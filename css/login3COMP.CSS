@@ -7,7 +7,7 @@ display: flex ;
     
 }
 .banner-dashboard h2{
-margin-top: -32rem;
+margin-top: -25rem;
 
     
 }
@@ -15,10 +15,13 @@ margin-top: -32rem;
     max-width: 95rem;
 }
 .rectangles .rectangle_1{
-margin: 25rem 0rem 0rem -25rem;    
+margin: 5rem 0rem 0rem -10rem;    
     
 }
 .rectangles .rectangle_2{
-margin: 5rem 8.8rem 0rem 0rem;    
+margin: 5rem 12rem 0rem 0rem;    
     
+}
+.banner-dashboard img{
+    margin-left: 7rem;
 }
